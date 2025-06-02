@@ -17,6 +17,7 @@ A simple Node.js application using **Node**,  **Express**, **EJS**, and the **Fi
 ## 🛠️ Installation & Usage
 
 Follow the steps below to run the app on your local machine:
+Add files folder before doing everything
 
 ### 1. Clone the Repository
 
